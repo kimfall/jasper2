@@ -67,7 +67,7 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: myJekyll
+username: kimgaeul
 repo: jasper2
 branch: master
 relative_source: ../jasper2/
